@@ -1,0 +1,32 @@
+.mainbod
+{
+    margin: 0px;
+    padding: 0px;
+    background-color: whitesmoke;
+    height: 1024px;
+    width: 1024px;
+}
+.img1
+{
+    background-color: black;
+}
+.strip
+{
+    width: 1024px;
+    height: 20px;
+    background-color: black;
+    margin: 0px;
+    padding-top: 0px;
+
+}
+.msg
+{
+    font-size: 35px;
+}
+
+h2{
+    margin:0px;
+    padding-left: 30px;
+    padding-top: 25px;
+    padding-bottom: 10px;
+}

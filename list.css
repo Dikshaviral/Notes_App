@@ -1,0 +1,17 @@
+.listElement
+{
+   font-size: 30px;
+   margin:5px;
+   padding:5px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   list-style-type: none;
+}
+
+button
+{
+    background-color: #f44336;
+    border-radius: 50%;
+     margin-left: 20px;
+     margin-bottom: 10px;
+     font-size: 25px;
+}
